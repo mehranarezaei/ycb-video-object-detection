@@ -25,12 +25,6 @@ Each `week-XX` branch contains this overview, that week's notebook, and its tech
 | 09 | **Object Detection I** — Predict classes and boxes on full frames; handle annotations and evaluate localization with IoU. | [week-09](https://github.com/mehranarezaei/ycb-video-object-detection/tree/week-09) |
 | 10 | **Object Detection II** — Study confidence thresholds, multiple objects, NMS, precision-recall behavior, and YOLO-style concepts. | [week-10](https://github.com/mehranarezaei/ycb-video-object-detection/tree/week-10) |
 
-## Planned extensions
-
-- **Week 11 — Object Segmentation:** use YCB masks for pixel-level regions; evaluate IoU and boundary failures.
-- **Week 12 — Final Object Understanding Demo:** integrate the strongest classification, detection, and segmentation components; compare unseen YCB examples and document limitations.
-
-Weeks 11 and 12 are a roadmap only; this repository currently provides weekly submissions for weeks 01–10.
 
 ## Working with the notebooks
 
