@@ -1,6 +1,6 @@
 # YCB-Video Object Detection
 
-A continuous computer-vision project by Mehrana Rezaei, working exclusively with the **YCB-Video (YCB-V)** dataset. The project follows the Group 1 practical track: dataset exploration, object classification, controlled improvements, structured error analysis, CNN recognition, and full-frame object detection. Segmentation and a final integrated demo are planned extensions.
+A continuous computer-vision project, working exclusively with the **YCB-Video (YCB-V)** dataset. The project follows these practical track: dataset exploration, object classification, controlled improvements, structured error analysis, CNN recognition, and full-frame object detection. Segmentation and a final integrated demo are planned extensions.
 
 ## Scope and evaluation
 
